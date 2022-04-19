@@ -1,0 +1,57 @@
+body{background-image:url(./balloons-gfb26203d4_1920.jpg);
+background-repeat: no-repeat;
+background-size: cover;}
+
+.logo{text-align: center;
+font-family:fantasy;
+color: darkgoldenrod;
+font-size:90px;
+text-shadow:3px 3px black;}
+
+
+#img1{position: absolute;
+width: 250px;
+height: 250px;
+margin-left: 150px;}
+
+#img2{position: absolute;
+width: 250px;
+height: 250px;
+margin-left: 1150px;}
+
+#img3{position: absolute;
+width: 300px;
+height: 300px;
+margin-left: 10px;}
+
+#img4{position: absolute;
+width: 300px;
+height: 300px;
+margin-left: 1250px;}
+
+#img5{position: absolute;
+width: 250px;
+height: 250px;
+margin-left: 40%;}
+
+button{background-color: purple;
+height: 80px;
+width: 300px;
+border: 0px;
+font-size: 25px;
+border-radius:50px;
+color: white;
+margin-left: 40%;
+box-shadow: 6px 6px black;}
+
+
+#img6{position: absolute;
+    width: 160px;
+    height: 160px;
+    margin-left: 300px;}
+
+    
+#img7{position: absolute;
+width: 160px;
+height: 160px;
+margin-left: 120px;}

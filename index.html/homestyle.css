@@ -1,0 +1,143 @@
+.logo{ font-family:fantasy;
+color: deeppink;
+font-size:30px;
+text-shadow:3px 3px black;
+position: absolute;}
+
+#logo{position: absolute;
+margin-top: 250px;
+margin-left: 50px;}
+
+#imgv1{margin-left: 1250px;
+position: absolute;}
+
+body{background-image: url(./background-6360861.png);}
+
+#text{height: 100%;
+margin: auto;
+width: 100%;}
+
+#h1{font-size: 90px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 3px;
+color: white;
+margin-left: 80px;}
+
+#h12{font-size: 90px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 3px;
+color:yellow;
+margin-left: 80px; }
+
+p{text-align: center;
+font-size: 30px;
+color: white;}
+
+#one{font-family:fantasy;
+padding-top: 30px;
+background-color:indigo}
+
+#img1{position: absolute;
+margin-left: 700px;}
+
+#img2{position: absolute;
+margin-left: 1200px;
+padding-bottom: 300px;}
+
+video{height: 510px;
+width: 330px;}
+
+.r3{display: flex;
+justify-content: space-evenly;}
+
+#ifc{height: 510px;
+width: 1200px;
+background-color: antiquewhite;
+display: flex;
+align-items: center;padding-left: 300px;}
+
+#wifi{background-color: purple;
+width: 525px;
+position: absolute;
+height: 420px;}
+
+#v2{margin-left: 525px;}
+
+.marquee{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 3px;
+font-size: 300px;
+background-color: yellow;
+position: absolute;
+width: 712px;
+margin-left: 855px;
+height: 420px;}
+
+#inline{display: flex;
+justify-content: space-between;}
+
+#two{background-color:rgb(176, 235, 137);
+    font-family:fantasy;
+    letter-spacing: 2px;
+    padding-top: 30px;}
+
+#img5{margin-left:100px ;
+position: absolute;}
+
+
+#img6{margin-left:1100px ;
+    height: 400px;
+    width: 400px;
+    position: absolute;}
+
+#p1{color: black;}
+
+#magical{font-size: 100px;
+font-family: cursive;}
+
+h4{font-family: cursive;}
+
+.imvideo{width: 100%;
+height: 900px;}
+
+.m1{background-color: white;}
+
+#c1{position: absolute;
+    margin-left: 40px;}
+
+#c2{position: absolute;
+    margin-left: 600px;
+height: 400px;}
+
+#c3{position: absolute;
+margin-left:1150px ;
+height: 400px;}
+
+.team{display: flex;
+    align-content: space-between;
+    position: absolute;
+font-size: 80px;
+background-color: ;}
+
+.team1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+color: yellow;}
+
+.team2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 3px;
+color: purple;}
+
+.team3{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+letter-spacing: 3px;
+color: green;}
+
+#imgl3{margin-left: 900px;
+position: absolute;}
+
+#imgl1{margin-left: 130px;}
+
+#footer{display: flex;
+justify-content: space-between;
+background-color: black;
+color: white;
+align-items: center;}
+
